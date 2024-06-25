@@ -33,7 +33,7 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 - 💻 Atualmente estou aprendendo muitas coisas, acredito que todos os dias é uma oportunidade de aprendizado.
 - 🏛️ Atualmente estou aberto para oportunidades de trabalho e emprego (remoto e relocação)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :)
-- 🗣️ Pronomes: Ele e Feliz 🙂
+- 🗣️ Frases: Nem tudo merece pagamento ou reconpensa apenas um obrigado ja basta 🙂
 
 <h1>### Find me Social</h1>
 
