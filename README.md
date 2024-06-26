@@ -47,7 +47,7 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 
 <h1 align=center>&nbsp Hey folks! 👋 My name is Saniel</h1>
 
-<p align=center>
+<h1 align=center>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniero/)
 
@@ -58,4 +58,4 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=flat&logo=instagram&logoColor=#fff)](https://www.instagram.com/saniero/)
 
 ![](https://komarev.com/ghpvc/?username=saniero)
-</p>
+</h1>
