@@ -1,4 +1,3 @@
-
 <h1 align=center>&nbsp Hey folks! 👋 My name is Saniel</h1>
 
 <p style="color: Red;"> ### Languages and tools</p>
@@ -31,22 +30,22 @@
 
 <h1>### Sobre</h1>
 
-Sou um desenvolvedor Full Stack entusiasmado com um talento especial para construir aplicações web fáceis de usar. Aproveito a experiência de front-end e back-end para criar soluções inovadoras.
+I'm a licensed Full Stack developer with a knack for building simple-to-use web applications. I leverage front-end and back-end experience to create innovative solutions.
 
-Busco ativamente novas ferramentas e técnicas para agilizar as tarefas diárias, tornando-as mais intuitivas e menos complicadas. Isso me permite abordar desafios do mundo real de forma criativa e eficiente.
+I seek to advance new tools and techniques to speed up daily tasks, making them more intuitive and less complicated. This allows me to approach real-world challenges creatively and efficiently.
 
-- 💻 Atualmente estou aprendendo muitas coisas, acredito que todos os dias é uma oportunidade de aprendizado.
-- 🏛️ Atualmente estou aberto para oportunidades de trabalho e emprego (remoto e relocação)
-- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :)
-- 🗣️ Frases: Nem tudo merece pagamento ou reconpensa apenas um obrigado ja basta 🙂
+- 💻 I'm currently learning a lot of things, I believe that every day is a learning opportunity.
+- 🏛️ I am currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me about anything, happy to help :)
+- 🗣️ Phrases: Not everything deserves payment or reward, just a thank you is enough 🙂
 
 <h1 align=center>Find me Social</h1>
 
 <h1 align=center>
 
 [![Codepen](https://img.shields.io/badge/codepen-0077B5?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanielro)
-[![x](https://img.shields.io/badge/Old%20Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/saniero/)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://www.instagram.com/sanielro/)
+[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/saniero/)
+[![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://instagram.com/sanielro)
 ![](https://komarev.com/ghpvc/?username=saniero)
 [![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/)
 </h1>
