@@ -21,6 +21,13 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
+![Yarn](https://img.shields.io/badge/yarn-05122A?style=flat&logo=yarn)&nbsp;
 
 <h1>### Sobre</h1>
 
@@ -41,8 +48,8 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 
 [![Codepen](https://img.shields.io/badge/codepen-0077B5?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sanielro)
 
-[![X](https://img.shields.io/badge/x-000?style=flat&logo=x Old Twitter&logoColor=white)](https://www.x.com/saniero/)
+[![Codepen](https://img.shields.io/badge/x-000?style=flat&logo=x-Old-Twitter&logoColor=white)](https://www.x.com/saniero/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=#e1306c)](https://www.instagram.com/saniero/)
+[![Instagram](https://img.shields.io/badge/Instagram-#e1306c?style=flat&logo=instagram&logoColor=#e1306c)](https://www.instagram.com/saniero/)
 
 ![](https://komarev.com/ghpvc/?username=saniero)
