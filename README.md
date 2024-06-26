@@ -50,5 +50,5 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 [![x](https://img.shields.io/badge/Old%20Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/saniero/)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://www.instagram.com/saniero/)
 ![](https://komarev.com/ghpvc/?username=saniero)
-[![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://www.pages.dev/)
+[![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/)
 </h1>
