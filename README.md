@@ -42,10 +42,7 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :)
 - 🗣️ Frases: Nem tudo merece pagamento ou reconpensa apenas um obrigado ja basta 🙂
 
-<h1>### Find me Social</h1>
-
-
-<h1 align=center>&nbsp Hey folks! 👋 My name is Saniel</h1>
+<h1 align=center>Find me Social</h1>
 
 <h1 align=center>
 
