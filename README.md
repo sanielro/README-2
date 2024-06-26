@@ -35,8 +35,6 @@ Sou um desenvolvedor Full Stack entusiasmado com um talento especial para constr
 
 Busco ativamente novas ferramentas e técnicas para agilizar as tarefas diárias, tornando-as mais intuitivas e menos complicadas. Isso me permite abordar desafios do mundo real de forma criativa e eficiente.
 
-Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vezes chatas.
-
 - 💻 Atualmente estou aprendendo muitas coisas, acredito que todos os dias é uma oportunidade de aprendizado.
 - 🏛️ Atualmente estou aberto para oportunidades de trabalho e emprego (remoto e relocação)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar :)
@@ -48,7 +46,7 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 
 [![Codepen](https://img.shields.io/badge/codepen-0077B5?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanielro)
 [![x](https://img.shields.io/badge/Old%20Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/saniero/)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://www.instagram.com/saniero/)
+[![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://www.instagram.com/sanielro/)
 ![](https://komarev.com/ghpvc/?username=saniero)
 [![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/)
 </h1>
