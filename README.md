@@ -46,8 +46,6 @@ Eu amo tanto videogames que sinto que eles são uma fuga de nossas vidas às vez
 
 <h1 align=center>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniero/)
-
 [![Codepen](https://img.shields.io/badge/codepen-0077B5?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sanielro)
 
 [![Codepen](https://img.shields.io/badge/Old%20Twitter-000?style=flat&logo=x&logoColor=white)](https://www.x.com/saniero/)
