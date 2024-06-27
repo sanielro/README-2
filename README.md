@@ -1,5 +1,3 @@
-<h1 align=center>&nbsp Hey folks! 👋 My name is Saniel</h1>
-
 <p style="color: Red;"> ### Languages and tools</p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
