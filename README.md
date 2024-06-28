@@ -26,11 +26,7 @@
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-05122A?style=flat&logo=yarn)&nbsp;
 
-<h1>### Sobre</h1>
-
-I'm a licensed Full Stack developer with a knack for building simple-to-use web applications. I leverage front-end and back-end experience to create innovative solutions.
-
-I seek to advance new tools and techniques to speed up daily tasks, making them more intuitive and less complicated. This allows me to approach real-world challenges creatively and efficiently.
+<h1>### About</h1>
 
 - 💻 I'm currently learning a lot of things, I believe that every day is a learning opportunity.
 - 🏛️ I am currently open for work and employment opportunities (remote and relocation)
@@ -41,8 +37,7 @@ I seek to advance new tools and techniques to speed up daily tasks, making them 
 
 <h1 align=center>
 
-[![Codepen](https://img.shields.io/badge/codepen-0077B5?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanielro)
-[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/saniero/)
+[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanierol/)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://instagram.com/sanielro)
 ![](https://komarev.com/ghpvc/?username=saniero)
 [![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/)
