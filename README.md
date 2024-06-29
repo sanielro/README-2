@@ -37,7 +37,7 @@
 
 <h1 align=center>
 
-[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanierol/){target="_blank"}
+[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanierol/{target="_blank"})
 [![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://instagram.com/sanielro){target="_blank"}
 ![](https://komarev.com/ghpvc/?username=saniero)
 [![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/){target="_blank"}
