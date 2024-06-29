@@ -26,19 +26,21 @@
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-05122A?style=flat&logo=yarn)&nbsp;
 
-<h1>### About</h1>
+<h1 align=center style="color:red;"># About</h1>
 
 - 💻 I'm currently learning a lot of things, I believe that every day is a learning opportunity.
 - 🏛️ I am currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about anything, happy to help :)
 - 🗣️ Phrases: Not everything deserves payment or reward, just a thank you is enough 🙂
 
-<h1 align=center>Find me Social</h1>
+<h1 align=center style="color:red;"># Find me Social</h1>
 
 <h1 align=center>
 
-[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanierol/ target="_blank)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?&style=for-the-badge&logo=instagram&logoColor=#fff)](https://instagram.com/sanielro){target="_blank"}
-![](https://komarev.com/ghpvc/?username=saniero)
-[![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](https://saniel.pages.dev/){target="_blank"}
+[![x](https://img.shields.io/badge/Twitter-000?&style=for-the-badge&logo=x&logoColor=white)](youurl)
+[![Instagram](https://img.shields.io/badge/Instagram-eb14d2?&style=for-the-badge&logo=instagram&logoColor=fff)](youurl)
+[![Facebook](https://img.shields.io/badge/facebook-0866ff?&style=for-the-badge&logo=facebook&logoColor=#fff)](youurl)
+[![Mastodon](https://img.shields.io/badge/mastodon-6364ff?&style=for-the-badge&logo=mastodon&logoColor=fff)](youurl)
+![](https://komarev.com/ghpvc/?username=youurl)
+[![Site](https://img.shields.io/website?down_color=red&down_message=OFFLINE&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fsaniel.pages.dev%2F)](youurl)
 </h1>
